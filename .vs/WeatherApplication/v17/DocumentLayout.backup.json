@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\weatherapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|c:\\users\\mbelek\\desktop\\myc#apps\\weatherapplication\\weatherapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\weatherapplication\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161FB94-E908-4C2B-A69F-E1703A85E33D}|WeatherApplication\\WeatherApplication.csproj|solutionrelative:weatherapplication\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\Form1.cs",
+              "RelativeToolTip": "WeatherApplication\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:44:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\WeatherInfo.cs",
+              "RelativeToolTip": "WeatherApplication\\WeatherInfo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:51:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\MbeleK\\Desktop\\MyC#Apps\\WeatherApplication\\WeatherApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "WeatherApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:47:32.863Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
